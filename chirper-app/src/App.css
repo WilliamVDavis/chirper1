@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+  background-color: lightslategray;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(12px + 1vmin);
+  align-items: center;
+}
+
+.fee{
+  height: 250px;
+  width: 250px;
+  background: white;
+  border-radius: 30px;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border: 8px solid black;
+}
+
